@@ -9,3 +9,12 @@ body {
   box-sizing: border-box;
 
 }
+
+.banner{
+  position: absolute;
+  right: 40px;
+  top: 0px;
+  width: 700px;
+  height: 900px;
+  margin-top: -330px;
+}
